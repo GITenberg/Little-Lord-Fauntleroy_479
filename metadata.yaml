@@ -1,5 +1,8 @@
 _repo: Little-Lord-Fauntleroy_479
-_version: 0.0.2
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burnett, Frances Hodgson
@@ -18,6 +21,8 @@ description: "Little Lord Fauntleroy is a novel by the English-American writer F
   \ set fashion trends and the novel set a precedent in copyright law when Burnett\
   \ won a lawsuit in 1888 against E. V. Seebohm over the rights to theatrical adaptations\
   \ of the work.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/479#Little-Lord-Fauntleroy
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2006-01-16'
 gutenberg_type: Text
